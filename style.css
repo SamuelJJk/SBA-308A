@@ -1,0 +1,6 @@
+.dogContainer, .catContainer{
+    border: 2px solid black;
+    margin: 1em;
+    height: 300px;
+    display: flex;
+}
