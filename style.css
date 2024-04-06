@@ -4,12 +4,12 @@
     height: 300px;
     display: flex;
 }
-.catPic{
+.catPic ,.dogPic{
     width: 30%;
     height: 100%s;
 
 }
-.catPic img{
+.catPic img, .dogPic img{
     width: 100%;
     height: 100%;
     object-fit: cover;
